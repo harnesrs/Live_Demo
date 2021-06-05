@@ -1,1 +1,2 @@
 Pytorch is the best deep learning library.
+It is easier to learn.
